@@ -2,7 +2,7 @@ bl_info = {
     "name": "Object Bounding Box",
     "author": "Patrick R. Moore",
     "version": (0, 1),
-    "blender": (2, 7, 3),
+    "blender": (2, 90, 0),
     "location": "View3D > Add > Mesh > New Object",
     "description": "Adds new cube which is minumum bounding box!",
     "warning": "",
